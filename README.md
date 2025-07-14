@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naveen Kewlani</h1>
-<h3 align="center">Frontend Developer | JavaScript Craftsman | React & Performance Enthusiast</h3>
+<h3 align="center">Freelance Web Developer </h3>
 
 ---
 
-- 🔭 I’m currently working on: [Your project name or portfolio website]
-- 🌱 I’m currently learning: Next.js, TypeScript, system design
-- 👯 I’m looking to collaborate on: Open source React or JS utility libraries
-- 💬 Ask me about: React, JS performance, SEO optimization
-- 📫 How to reach me: [Your Email] or [LinkedIn]
-- 🧠 Fun fact: I love building things that solve real-world problems
+- I can build your online address within days. 
+- I can make your website fast.
+- I can improve the looks of your website
+- 📫 Reach me at: kewlaninaveen5@gmail.com 
 
 ---
 
@@ -30,13 +28,21 @@
 
 ---
 
-### 🧰 My Portfolio & Projects:
-- [🌐 Portfolio Website](https://github.com/kewlaninaveen5)
-- [🧪 JavaScript Functional Playground](#)
-- [📦 React UI Component Library](#)
-
----
-
 <p align="center">
+  <div>Lets Build your Online Address </div>
+  <a href="mailto:kewlaninaveen5@gmail.com" style="
+  display: inline-block;
+  background-color: #007BFF; /* Bootstrap Blue */
+  color: white;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-size: 1.75rem; /* Approx h3 size */
+  font-weight: 500;
+  font-family: sans-serif;
+">
+  Let's Do This
+</a>
+
   <img src="https://komarev.com/ghpvc/?username=kewlaninaveen5&label=Profile%20views&color=0e75b6&style=flat" alt="kewlaninaveen5" />
 </p>
