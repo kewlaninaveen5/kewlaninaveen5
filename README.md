@@ -4,7 +4,7 @@
 ---
 
 - I can build your online address within days. 
-- I can make your website fast.
+- I can make your website fast and performance optimized.
 - I can improve the looks of your website
 - 📫 Reach me at: kewlaninaveen5@gmail.com 
 
