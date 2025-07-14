@@ -30,19 +30,11 @@
 
 <p align="center">
   <div>Lets Build your Online Address </div>
-  <a href="mailto:kewlaninaveen5@gmail.com" style="
-  display: inline-block;
-  background-color: #007BFF; /* Bootstrap Blue */
-  color: white;
-  text-decoration: none;
-  padding: 12px 24px;
-  border-radius: 6px;
-  font-size: 1.75rem; /* Approx h3 size */
-  font-weight: 500;
-  font-family: sans-serif;
-">
-  Let's Do This
-</a>
+  <p align="center">
+  <a href="mailto:kewlaninaveen5@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Do%20This-007BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=007BFF" alt="Email Button" />
+  </a>
+</p>
 
   <img src="https://komarev.com/ghpvc/?username=kewlaninaveen5&label=Profile%20views&color=0e75b6&style=flat" alt="kewlaninaveen5" />
 </p>
