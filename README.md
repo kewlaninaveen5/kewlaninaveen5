@@ -28,13 +28,10 @@
 
 ---
 
-<p align="center">
-  <div>Lets Build your Online Address </div>
+  <h3 align="center">Lets Build your Online Address </h3>
   <p align="center">
   <a href="mailto:kewlaninaveen5@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Do%20This-007BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=007BFF" alt="Email Button" />
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=kewlaninaveen5&label=Profile%20views&color=0e75b6&style=flat" alt="kewlaninaveen5" />
-</p>
