@@ -3,20 +3,18 @@
 I have 2+ years of experience working as a Full Stack Developer, employed Applications Impacting over 10 million lives positively, cut down FCP by more than 2 seconds and heavily optimised security and performance of applications.
 
 ---
-<h3 align="center">Tools & Technologies: </h3>
+<h3 align="left">Tools & Technologies: </h3>
 
-
-
- 
-- 2.5 years of experience in Full Stack Development (MERN)
-- Employed Applications Impacting over 10 million lives globally.
-- Cut down FCP by more than 2 seconds.
-- Optimised Security and Performance of applications.
+- Frontend: ReactJS, NextJS, Redux, HTML, Tailwind CSS, Material UI
+- Backend: Node.js, Express, Redis, REST APIs
+- Languages: TypeScript, JavaScript
+- Database: MySQL, MongoDB
+- DevOps & Cloud: Docker, AWS (EC2, S3)
+- Tools: Sentry, Webpack, Babel, Git, CI/CD.
 - 📫 Reach me at: kewlaninaveen5@gmail.com 
 
 ---
 
-### 🛠️ Tech Stack:
 ![MERN](https://img.shields.io/badge/-MERN-4DB33D?style=flat&logo=MongoDB&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
