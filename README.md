@@ -3,9 +3,11 @@
 
 ---
 
-- I can build your online address within days. 
-- I can make your website fast and performance optimized.
-- I can improve the looks of your website
+ 
+- 2+ years of experience in Full Stack Development (MERN)
+- Employed Applications Impacting over 10 million lives globally.
+- Cut down FCP by more than 2 seconds.
+- Optimised Security and Performance of applications.
 - 📫 Reach me at: kewlaninaveen5@gmail.com 
 
 ---
