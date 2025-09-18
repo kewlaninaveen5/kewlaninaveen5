@@ -4,7 +4,7 @@
 ---
 
  
-- 2+ years of experience in Full Stack Development (MERN)
+- 2.5 years of experience in Full Stack Development (MERN)
 - Employed Applications Impacting over 10 million lives globally.
 - Cut down FCP by more than 2 seconds.
 - Optimised Security and Performance of applications.
