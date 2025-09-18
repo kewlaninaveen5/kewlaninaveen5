@@ -13,6 +13,9 @@
 ---
 
 ### 🛠️ Tech Stack:
+![MERN](https://img.shields.io/badge/-MERN-4DB33D?style=flat&logo=MongoDB&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
