@@ -1,9 +1,10 @@
 <h1 align="left">Naveen Kewlani</h1>
 
 I have 2+ years of experience working as a Full Stack Developer, employed Applications Impacting over 10 million lives positively, cut down FCP by more than 2 seconds and heavily optimised security and performance of applications.
+---
 <h3 align="center">Tools & Technologies: </h3>
 
----
+
 
  
 - 2.5 years of experience in Full Stack Development (MERN)
