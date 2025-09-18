@@ -24,14 +24,6 @@ I have 2+ years of experience working as a Full Stack Developer, employed Applic
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kewlaninaveen5&show_icons=true&theme=radical" alt="Naveen's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kewlaninaveen5&theme=radical" />
-</p>
 
 ---
 
