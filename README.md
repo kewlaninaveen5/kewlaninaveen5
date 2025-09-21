@@ -3,6 +3,7 @@
 I have 3+ years of experience working as a Full Stack Developer, employed Applications Impacting over 10 million lives positively, cut down FCP by more than 2 seconds and heavily optimised security and performance of applications.
 
 ---
+
 <h3 align="left">Tools & Technologies: </h3>
 
 - Frontend: ReactJS, NextJS, Redux, HTML, Tailwind CSS, Material UI
