@@ -12,7 +12,7 @@ I have 3+ years of experience working as a Full Stack Developer, employed Applic
 - Database: MySQL, MongoDB
 - DevOps & Cloud: Docker, AWS (EC2, S3)
 - Tools: Sentry, Webpack, Babel, Git, CI/CD.
-- 📫 Reach me at: kewlaninaveen5@gmail.com 
+- Reach me at: kewlaninaveen5@gmail.com 
 
 ---
 
