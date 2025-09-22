@@ -14,20 +14,7 @@ I have 3+ years of experience working as a Full Stack Developer, employed Applic
 - Tools: Sentry, Webpack, Babel, Git, CI/CD.
 - Reach me at: kewlaninaveen5@gmail.com
 
-  <a href="https://www.testdome.com/certificates/7cd7f83d07fd43fb987a70d801c64edf" class="testdome-certificate-stamp silver">
-            <span class="testdome-certificate-name">Naveen Kewlani</span>
-            <span class="testdome-certificate-test-name">Communication</span>
-            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
-        </a>
-        <script>
-            var stylesheet = "https://www.testdome.com/content/certificates/embed.css";
-            link = document.createElement("link");
-            link.href = stylesheet;
-            link.type = "text/css";
-            link.rel = "stylesheet";
-            link.media = "screen,print";
-            document.getElementsByTagName("head")[0].appendChild(link);
-        </script>
+
 
 ---
 
@@ -49,4 +36,20 @@ I have 3+ years of experience working as a Full Stack Developer, employed Applic
     <img src="https://img.shields.io/badge/Let's%20Do%20This-007BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=007BFF" alt="Email Button" />
   </a>
 </p>
+
+
+  <a href="https://www.testdome.com/certificates/7cd7f83d07fd43fb987a70d801c64edf" class="testdome-certificate-stamp silver">
+            <span class="testdome-certificate-name">Naveen Kewlani</span>
+            <span class="testdome-certificate-test-name">Communication</span>
+            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
+        </a>
+        <script>
+            var stylesheet = "https://www.testdome.com/content/certificates/embed.css";
+            link = document.createElement("link");
+            link.href = stylesheet;
+            link.type = "text/css";
+            link.rel = "stylesheet";
+            link.media = "screen,print";
+            document.getElementsByTagName("head")[0].appendChild(link);
+        </script>
 
