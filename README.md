@@ -43,13 +43,5 @@ I have 3+ years of experience working as a Full Stack Developer, employed Applic
             <span class="testdome-certificate-test-name">Communication</span>
             <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
         </a>
-        <script>
-            var stylesheet = "https://www.testdome.com/content/certificates/embed.css";
-            link = document.createElement("link");
-            link.href = stylesheet;
-            link.type = "text/css";
-            link.rel = "stylesheet";
-            link.media = "screen,print";
-            document.getElementsByTagName("head")[0].appendChild(link);
-        </script>
+        
 
